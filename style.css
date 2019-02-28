@@ -17,6 +17,18 @@ h1 {
 
 }
 
+h2 {
+    font-family: 'Share Tech Mono', monospace;
+    color: #AA0D57;
+    z-index: 4;
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+    margin: 0;
+    overflow: auto;
+    font-family: 
+}
+
 /*stars by Nick Mkrtchyan - mkrtchyan.ga*/
 * {
     margin: 0;
